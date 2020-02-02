@@ -4,24 +4,24 @@ Scope <br>
 <br>
 
 
-Restrictions:
-1- For creating an account the next things are required: username (not already taken), password, and email.
-2-  Landmarks will be used for points only once per day
-3- The upgraded version of player (hosting player) will only be activated during the time of the event, and with permission from the admin
-4- Permission for the app to use the location will be required
-5- Points will only be awarded from 5 am to 10 pm (for security) with the exception of already stated hours in the event.
-6- Hosting Events will only be permitted by filling the required form with the required information (Name of Event, Location in the city, Description of event, If volunteers will be accepted, Purpose of the event (either cultural or to help local business), proposition of points awarded (admins will decide at the end how many points will be given), proof of authenticity of event (an admin might be attending the event to make sure it happens) and rewards given by the event or business).
+Restrictions: <br>
+1- For creating an account the next things are required: username (not already taken), password, and email. <br>
+2-  Landmarks will be used for points only once per day <br>
+3- The upgraded version of player (hosting player) will only be activated during the time of the event, and with permission from the admin <br>
+4- Permission for the app to use the location will be required <br>
+5- Points will only be awarded from 5 am to 10 pm (for security) with the exception of already stated hours in the event. <br>
+6- Hosting Events will only be permitted by filling the required form with the required information (Name of Event, Location in the city, Description of event, If volunteers will be accepted, Purpose of the event (either cultural or to help local business), proposition of points awarded (admins will decide at the end how many points will be given), proof of authenticity of event (an admin might be attending the event to make sure it happens) and rewards given by the event or business). <br>
 .
 
-Assumptions:
-Assume that local businesses would actually want to participate and give discounts to users
+Assumptions: <br>
+Assume that local businesses would actually want to participate and give discounts to users <br>
 
 
 
-Classes:
-	Landmarks: 
-		Will include: Name, Description, Location,  Active Time (6 am - 10 pm in case of a landmark and working hours in case of a business), Point value
-	Events:
-		Will include: Name, description, Location, Host, Point Value, Hours, if accepting volunteers requirements (if applicable) and a description of what will be doing.
-	User:
-		Will include: Username, Password, Location, Community Points, Solo Points, Awards on inventory, Type (Hosting, normal or admin), Rank in community, Achievements.
+Classes: <br>
+	Landmarks: <br>
+		Will include: Name, Description, Location,  Active Time (6 am - 10 pm in case of a landmark and working hours in case of a business), Point value <br>
+	Events: <br>
+		Will include: Name, description, Location, Host, Point Value, Hours, if accepting volunteers requirements (if applicable) and a description of what will be doing. <br>
+	User: <br>
+		Will include: Username, Password, Location, Community Points, Solo Points, Awards on inventory, Type (Hosting, normal or admin), Rank in community, Achievements. <br>
