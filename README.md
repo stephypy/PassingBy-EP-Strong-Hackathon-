@@ -11,6 +11,7 @@ Restrictions: <br>
 4- Permission for the app to use the location will be required <br>
 5- Points will only be awarded from 5 am to 10 pm (for security) with the exception of already stated hours in the event. <br>
 6- Hosting Events will only be permitted by filling the required form with the required information (Name of Event, Location in the city, Description of event, If volunteers will be accepted, Purpose of the event (either cultural or to help local business), proposition of points awarded (admins will decide at the end how many points will be given), proof of authenticity of event (an admin might be attending the event to make sure it happens) and rewards given by the event or business). <br>
+7- The first steps of the app will be restricted to El Paso, and later on other cities will be added to promote a small competition between cities. <br>
 .
 
 Assumptions: <br>
